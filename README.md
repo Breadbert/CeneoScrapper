@@ -31,3 +31,13 @@
 1. Implementation of loop traversing through consecutive pages with opinions.
 2. Loading extracted opinions to .json file.
 3. Parameterization of product ID and reading product ID from standard input.
+
+## Stage 4 - code refactoring
+1. Implementation of a component extraction function.
+2. Using dictionary with components selectors and comprehension for the representation of a single opinion.
+
+## Stage 5 - statistical analysis of the extracted opinions
+1. Displaying a list of products for each opinion that has been extracted.
+2. 
+
+## Stage 6 - drawing charts based on the given data
