@@ -38,6 +38,12 @@
 
 ## Stage 5 - statistical analysis of the extracted opinions
 1. Displaying a list of products for each opinion that has been extracted.
-2. 
+2. Reading data from a .json file representing a single product to a dataframe.
+3. Calculating basic statistics.
+    - Average score
+    - Number of opinions from a given advantage list
+    - Number of opinions from a given disadvantage list
 
 ## Stage 6 - drawing charts based on the given data
+1. Pie chart showing the share of particular recommendations.
+2. Bar chart showing the frequency of individual ratings.
